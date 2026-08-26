@@ -2,5 +2,5 @@
 - [Planning Your Hack Club](/plan/)
 - [Meeting Templates](/meetings/)
 - [Running an Event](/events/)
-- [Club Logistics](/logistics/)
+- [Communications Guide](/comms.md)
 - [Common Questions](/faq.md)
