@@ -6,5 +6,5 @@
   - [Workshop Day](/meetings/workshop_day.md)
   - [Hack Day](/meetings/hack_day.md)
 - [Running an Event](/events/)
-- [Club Logistics](/logistics/)
+- [Communications Guide](/comms.md)
 - [Common Questions](/faq.md)
