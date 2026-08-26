@@ -4,5 +4,5 @@
 - [Running an Event](/events/)
   - [Venue Hunting](/events/venue.md)
   - [Raising Money](/events/fundraising.md)
-- [Club Logistics](/logistics/)
+- [Communications Guide](/comms.md)
 - [Common Questions](/faq.md)
