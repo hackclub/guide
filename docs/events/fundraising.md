@@ -4,7 +4,10 @@ We recommend you watch the [Meginar], made by the same people behind [Hack Chica
 
 Karthik, a previous Clubs Team member, made an AWESOME guide that explains literally everything about getting sponsorships. Check it out [here][karthikguide]. It's a great guide, with tons of info.
 
+Unfortunately Hack Club can't sponsor your events. For more information see [here](sponsorship).
+
 [Meginar]: https://youtu.be/tOmXzA4reTY
 [hc18]: https://hackchicago.io
 [karthikguide]: https://slack-files.com/T09V59WQY1E-F092GQYDBG8-13bb7ef19c
+[sponsorship]: https://hackclub.com/sponsorship
 
