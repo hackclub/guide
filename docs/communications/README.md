@@ -22,4 +22,5 @@ You are more than welcome to use any Hack Club logo as long as it’s in the spo
 
 If you have any questions or concerns, please reach out to me at [dev@hackclub.com](mailto:dev@hackclub.com). 
 
-(Updated on August 26th, 2026 - with adaptations)
+---
+(This is a copy of the [Communications Guide for Community Run Events](https://docs.google.com/document/d/1uDBaSVIuFEj7lMPpizQ9cfUZgMb_zm88Cy8p0qytPKo/edit?tab=t.0). Last updated on August 26th, 2026.)
