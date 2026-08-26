@@ -15,21 +15,19 @@ When it comes to pitching Hack Club, keep it short and simple, like the followin
 
 > Hack Club is where teenagers build real projects with code (apps, websites, games, hardware, whatever you can imagine).
 >
-> - You get free pizza money for every project you complete ($5 per project, up to $20 per meeting)
-> - Free access to pro tools like Zoom Pro, Figma Pro, and 100+ coding workshops
-> - Free stickers, posters, and even $100 grants to design your own circuit boards
+> - You get snacks for every project you complete
+> - Free access to pro tools like Zoom Pro, Brilliant Premium, and 100+ coding workshops
+> - Free stickers, posters, cool prizes and project funding
 > - Join 100,000+ other teen makers in our Slack community
 > - Access to hackathons and events around the world
 >
-> Think of it like a continuous hackathon that meets twice a week. You build, you "ship", you get free stuff. Simple as that.
-
-Now to go into depth on the three channels for driving sign-ups.
+> You build, you "ship", you get free stuff. Simple as that.
 
 ## Club Fair
 
 Most schools have a day for advertising clubs at the beginning of each semester. This commonly called the "club fair", "club day", "club rush", or "club showcase". It is extremely important that you have a presence at this event -- this is your opportunity to get the most members to your first club meeting.
 
-The best way to take advantage of your school's "club day" (or equivalent) is to bring food and be extremely proactive about getting people to give you their names, emails, and phone numbers. You can use Google Sheets or Excel for example, and if you want to collect that data quicker, use something like Fillout, which has an extremely generous Free plan, looks great, has great integrations and we, at Hack Club, use it everyday, from YSWS submissions to the feedback form for this guide!
+The best way to take advantage of your school's "club day" (or equivalent) is to bring food and be extremely proactive about getting people to give you their names and emails. You can use Google Sheets or Excel for example, and if you want to collect that data quicker, use something like Fillout, which has an extremely generous Free plan which looks great and  has good integrations. At Hack Club, we use it everyday, from YSWS submissions to the feedback form on this guide!
 
 ## Posters
 

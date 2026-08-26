@@ -1,5 +1,8 @@
 # Teacher Sponsor and Space
 
+> This page mainly applies to people running clubs inside a school. If you are running your meetings are at a library or 
+> makerspace you can still have an sponsor but may need to find them another way!
+
 A good teacher sponsor is key to having access to regular space for club meetings and a good relationship with your school. Your sponsor is the person who will get you a classroom for after-school meetings. If things go wrong with the school administration, your sponsor will be your advocate. Choosing the wrong sponsor can be fatal to clubs, so give it careful thought.
 
 The best sponsors are personally invested in spreading coding to students. This is generally the teacher most likely to start a computer science class (or, if you already have one, the current computer science teacher). If you're new to your school and not very familiar with the teachers, a good place to start looking is the math and science department. If your school has a computer lab, start with the teachers that teach classes in it (or if your school has classrooms with computers in it, start with the teachers with computer classrooms). If none of these are available to you, choose a teacher you already like.
@@ -12,6 +15,8 @@ Once you've decided on a few potential teacher sponsors, reach out to them and t
 >
 > ...
 
-You'll want to get your teacher sponsor to commit to providing a space twice a week after-school for at least an hour and a half (ideally two hours, so there's extra time for members to stay after meetings).
+You'll want to get your teacher sponsor to commit to providing a space and the time to supervise for the duration of your meetings.
 
 The difficulty of getting a teacher sponsor varies widely school to school. At some schools you'll find a good teacher sponsor on your first try and at others it'll take talking to 5-6 teachers. The most important thing is to be persistent.
+
+For further information about contacting sponsor head to the [School Toolbox](https://school-toolbox.hackclub.com/)!
