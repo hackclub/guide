@@ -7,5 +7,5 @@
   - [Internet Connectivity](/plan/internet_connectivity)
 - [Meeting Templates](/meetings/)
 - [Running an Event](/events/)
-- [Club Logistics](/logistics/)
+- [Communications Guide](/comms.md)
 - [Common Questions](/faq.md)
