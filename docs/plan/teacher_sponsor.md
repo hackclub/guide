@@ -18,4 +18,4 @@ You'll want to get your teacher sponsor to commit to providing a space and the t
 
 The difficulty of getting a teacher sponsor varies widely school to school. At some schools you'll find a good teacher sponsor on your first try and at others it'll take talking to 5-6 teachers. The most important thing is to be persistent.
 
-For further information about contacting a teacher sponsor head to the [School Toolbox](https://school-toolbox.hackclub.com/)!
+For further information about contacting a teacher sponsor, head to the [School Toolbox](https://school-toolbox.hackclub.com/).
