@@ -1,6 +1,6 @@
 # Teacher Sponsor and Space
 
-> This page mainly applies to people running clubs inside a school. If your meetings are at a library or makerspace, you can still have a sponsor but may need to find them another > way!
+> This page mainly applies to people running clubs inside a school. If your meetings are at a library or makerspace, you can still have a sponsor but may need to find them another way!
 
 A good teacher sponsor is key to having access to regular space for club meetings and a good relationship with your school. Your sponsor is the person who will get you a classroom for after-school meetings. If things go wrong with the school administration, your sponsor will be your advocate. Choosing the wrong sponsor can be fatal to clubs, so give it careful thought.
 
