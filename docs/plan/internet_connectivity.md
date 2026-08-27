@@ -14,6 +14,6 @@ If possible, try to get all subdomains of `*.hackclub.com` unblocked - this allo
 - https://spaces.hackclub.com
 - https://clubs.hackclub.com
 
-If you need an official list for IT admins send them this: https://hackclub.com/it-admins!
+If you need an official list for IT admins, send them this: https://hackclub.com/it-admins!
 
 It is important that you can access these sites as you will be using them for the entire duration of your club. If any of the sites are blocked by your school, please let a Clubs team member know on the [#leaders](https://hackclub.enterprise.slack.com/archives/C02PA5G01ND) Slack channel, we can help you out!
